@@ -11,9 +11,9 @@
       <div style="border:1px solid #ddd; padding:12px; border-radius:8px; text-align:left;">
         <strong>📋 Table of Contents</strong>
         <ul style="list-style:none; padding:8px 0 0 0; margin:0; text-align:left;">
-          <li>✨ <a href="#introduction">Introduction</a></li>
-          <li>⚙️ <a href="#tech-stack">Tech Stack</a></li>
-          <li>🚀 <a href="#quick-start">Quick Start</a></li>
+          <li>✨<a href="#introduction">Introduction</a></li>
+          <li>⚙️<a href="#tech-stack">TechStack</a></li>
+          <li>🚀<a href="#quick-start">QuickStart</a></li>
         </ul>
       </div>
     </td>
@@ -55,7 +55,7 @@
   <p style="margin:0 0 8px 0;"><strong>Clone the repo</strong></p>
   <div style="display:flex; gap:8px; align-items:flex-start; margin-bottom:12px;">
     <button style="padding:6px 10px; border-radius:6px; border:1px solid #0b8457; background:#0b8457; color:#fff; font-weight:700; cursor:pointer;"
-      onclick="(async()=>{const p=this.nextElementSibling;await navigator.clipboard.writeText(p.innerText);const t=this.textContent;this.textContent='Copied';setTimeout(()=>this.textContent=t,1500);})();">Copy</button>
+      onclick="(async()=>{const p=this.nextElementSibling;await navigator.clipboard.writeText(p.innerText);const t=this.textContent;this.textContent='Copied';setTimeout(()=>this.textContent=t,1500);})();"></button>
     <pre style="background:#ffffff; padding:8px; border-radius:6px; overflow:auto; text-align:left; border:1px solid #eee;"><code style="color:#111; font-weight:700; font-family:ui-monospace, SFMono-Regular, Menlo, Monaco, 'Roboto Mono', 'Courier New', monospace;">git clone https://github.com/mohitjoping/gsapBasics.git
 cd gsapBasics</code></pre>
   </div>
@@ -63,14 +63,14 @@ cd gsapBasics</code></pre>
   <p style="margin:8px 0 8px 0;"><strong>Install</strong></p>
   <div style="display:flex; gap:8px; align-items:flex-start; margin-bottom:12px;">
     <button style="padding:6px 10px; border-radius:6px; border:1px solid #0b8457; background:#0b8457; color:#fff; font-weight:700; cursor:pointer;"
-      onclick="(async()=>{const p=this.nextElementSibling;await navigator.clipboard.writeText(p.innerText);const t=this.textContent;this.textContent='Copied';setTimeout(()=>this.textContent=t,1500);})();">Copy</button>
+      onclick="(async()=>{const p=this.nextElementSibling;await navigator.clipboard.writeText(p.innerText);const t=this.textContent;this.textContent='Copied';setTimeout(()=>this.textContent=t,1500);})();"></button>
     <pre style="background:#ffffff; padding:8px; border-radius:6px; overflow:auto; text-align:left; border:1px solid #eee;"><code style="color:#111; font-weight:700; font-family:ui-monospace, SFMono-Regular, Menlo, Monaco, 'Roboto Mono', 'Courier New', monospace;">npm install</code></pre>
   </div>
 
   <p style="margin:8px 0 8px 0;"><strong>Run</strong></p>
   <div style="display:flex; gap:8px; align-items:flex-start; margin-bottom:12px;">
     <button style="padding:6px 10px; border-radius:6px; border:1px solid #0b8457; background:#0b8457; color:#fff; font-weight:700; cursor:pointer;"
-      onclick="(async()=>{const p=this.nextElementSibling;await navigator.clipboard.writeText(p.innerText);const t=this.textContent;this.textContent='Copied';setTimeout(()=>this.textContent=t,1500);})();">Copy</button>
+      onclick="(async()=>{const p=this.nextElementSibling;await navigator.clipboard.writeText(p.innerText);const t=this.textContent;this.textContent='Copied';setTimeout(()=>this.textContent=t,1500);})();"></button>
     <pre style="background:#ffffff; padding:8px; border-radius:6px; overflow:auto; text-align:left; border:1px solid #eee;"><code style="color:#111; font-weight:700; font-family:ui-monospace, SFMono-Regular, Menlo, Monaco, 'Roboto Mono', 'Courier New', monospace;">npm run dev</code></pre>
   </div>
 

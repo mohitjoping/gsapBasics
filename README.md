@@ -1,7 +1,10 @@
 <div align="left">
-
+<div align="center">
+      <img src="public/nameStyle.png" alt="Project Banner">
+  <h1 align="center">GSAP BASICS</h3>
+</div>
 <div style="text-align:left; margin-bottom:16px;">
-  <h1 style="margin:0;">GSAP Basics</h1>
+
   <p style="margin:4px 0 0 0;">A concise, hands-on workshop for crafting delightful, high-performance web animations with GSAP.</p>
 </div>
 
@@ -78,3 +81,6 @@ cd gsapBasics</code></pre>
 </div>
 
 </div>
+
+
+Reference by -
